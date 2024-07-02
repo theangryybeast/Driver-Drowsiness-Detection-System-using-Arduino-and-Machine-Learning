@@ -40,9 +40,6 @@ Our system uses advanced computer vision techniques to detect the driver's face 
 
 We welcome contributions from the community! If you have any improvements or bug fixes, please fork this repository and submit a pull request.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgements
 
